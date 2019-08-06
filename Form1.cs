@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace examenCorregido
+namespace Examen
 {
     public partial class Form1 : Form
     {
@@ -76,6 +76,11 @@ namespace examenCorregido
         }
 
         private void txtEco_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lista1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
